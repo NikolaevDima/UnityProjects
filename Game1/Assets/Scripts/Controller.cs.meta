@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9252f03387975b147908bb53a0729998
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - bc: {instanceID: 0}
+  - aoePrefabs: {fileID: 8869189262118362688, guid: e440874cfeb1a7647bc7834cb723b9f9, type: 3}
+  - bulletPrefabs: {instanceID: 0}
+  - firePrefabs: {instanceID: 0}
+  - cam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
